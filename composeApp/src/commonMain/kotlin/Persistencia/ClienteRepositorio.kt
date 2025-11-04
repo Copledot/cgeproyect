@@ -1,0 +1,4 @@
+package Persistencia
+
+interface ClienteRepositorio {
+}

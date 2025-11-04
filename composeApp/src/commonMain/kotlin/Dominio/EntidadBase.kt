@@ -1,4 +1,6 @@
 package Dominio
 
-abstract class EntidadBase {
+abstract class EntidadBase (
+
+){
 }

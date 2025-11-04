@@ -1,3 +1,5 @@
 package Dominio
 
-data class TarifaDetalle()
+data class TarifaDetalle(
+
+)

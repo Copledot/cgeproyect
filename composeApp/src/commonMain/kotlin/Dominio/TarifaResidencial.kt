@@ -1,4 +1,8 @@
 package Dominio
 
-class TarifaResidencial {
+class TarifaResidencial (
+    var cargoFijo: Double,
+    var precioKwh: Double,
+    var iva: Double
+) {
 }

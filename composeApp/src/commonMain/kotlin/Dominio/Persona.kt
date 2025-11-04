@@ -1,4 +1,9 @@
 package Dominio
 
-abstract class Persona {
+abstract class Persona (
+    var rut: String,
+    var nombre: String,
+    var email: String,
+
+    ) {
 }

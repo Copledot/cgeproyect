@@ -1,4 +1,7 @@
 package Dominio
 
-class Cliente {
+class Cliente (
+    var direccionFacturacion: String,
+    var estado: EstadoCliente
+){
 }

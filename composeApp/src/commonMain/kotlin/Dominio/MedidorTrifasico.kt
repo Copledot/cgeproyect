@@ -1,4 +1,7 @@
 package Dominio
 
-class MedidorTrifasico {
+class MedidorTrifasico(
+    var potencialMaxKw: Double,
+    var factorPotencia: Double
+) {
 }

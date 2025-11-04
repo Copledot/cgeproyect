@@ -1,4 +1,6 @@
 package Dominio
 
-class MedidorMonofasico {
+class MedidorMonofasico (
+    var potenciaMaxKw: Double
+){
 }
