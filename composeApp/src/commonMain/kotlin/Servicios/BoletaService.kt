@@ -1,0 +1,4 @@
+package Servicios
+
+class BoletaService {
+}

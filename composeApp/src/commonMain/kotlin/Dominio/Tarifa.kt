@@ -1,0 +1,4 @@
+package Dominio
+
+interface Tarifa {
+}
